@@ -18,7 +18,7 @@
 
 ## Videos a las clases prácticas
 
-* [Clase 1, Introducción a Google Colab y Python, 2023-08-15](TODO)
+* [Clase 1, Introducción a Google Colab y Python, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=sharing)
 
 ## Links útiles
 
