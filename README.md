@@ -1,1 +1,0 @@
-# redes-neuronales-2023
