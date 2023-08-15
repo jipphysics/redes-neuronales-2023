@@ -14,7 +14,7 @@
 
 ## Guías de Prácticos
 
-* [Práctico 1, 2023-08-15](TODO)
+* [Práctico 1, 2023-08-15, Familiarizandose con **Google Colab** y **Python**](https://colab.research.google.com/drive/1CYy-_uAJmKVGTQa_9X1fg6prJ3wSITLd?usp=sharing)
 
 ## Videos a las clases prácticas
 
