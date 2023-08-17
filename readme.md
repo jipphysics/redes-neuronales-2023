@@ -16,9 +16,13 @@
 
 * [Práctico 1, 2023-08-15, Familiarizandose con **Google Colab** y **Python**](https://colab.research.google.com/drive/1CYy-_uAJmKVGTQa_9X1fg6prJ3wSITLd?usp=sharing)
 
+* [Práctico 2, 2023-08-17, Familiarizandose con **Numpy**](https://colab.research.google.com/drive/11RaUdM1M3J8e8eDuUyF8NHWOSDg1BcZF?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a Google Colab y Python, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=sharing)
+
+* [Clase 2, Familiarizandonse con **Numpy**, 2023-08-17](TODO)
 
 ## Links útiles
 
