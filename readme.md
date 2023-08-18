@@ -22,7 +22,7 @@
 
 * [Clase 1, Introducción a Google Colab y Python, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=sharing)
 
-* [Clase 2, Familiarizandonse con **Numpy**, 2023-08-17](TODO)
+* [Clase 2, Familiarizandonse con **Numpy**, 2023-08-17](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
 
 ## Links útiles
 
