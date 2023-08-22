@@ -18,11 +18,15 @@
 
 * [Práctico 2, 2023-08-17, Familiarizandose con **Numpy**](https://colab.research.google.com/drive/11RaUdM1M3J8e8eDuUyF8NHWOSDg1BcZF?usp=drive_link)
 
+* [Práctico 3, 2023-08-22, Algebra lineal con **SciPy**](https://colab.research.google.com/drive/1wDf3TKlNRAQSwNnSWMkBRU0akWSYj5FJ?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
 
 * [Clase 2, Familiarizandonse con **Numpy**, 2023-08-17](https://drive.google.com/file/d/1W9JbgvFru2LdE485-nGU4H11lPcjsD9E/view?usp=drive_link)
+
+* [Clase 3, Algebra lineal con **SciPy**, 2023-08-22](TODO)
 
 ## Links útiles
 
