@@ -26,7 +26,7 @@
 
 * [Clase 2, Familiarizandonse con **Numpy**, 2023-08-17](https://drive.google.com/file/d/1W9JbgvFru2LdE485-nGU4H11lPcjsD9E/view?usp=drive_link)
 
-* [Clase 3, Algebra lineal con **SciPy**, 2023-08-22](TODO)
+* [Clase 3, Algebra lineal con **SciPy**, 2023-08-22](https://drive.google.com/file/d/16rPPPvqdl2Zt4BRgTm0miYkuV-xbfwBD/view?usp=drive_link)
 
 ## Links útiles
 
