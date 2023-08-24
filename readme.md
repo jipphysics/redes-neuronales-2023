@@ -20,6 +20,8 @@
 
 * [Práctico 3, 2023-08-22, Algebra lineal con **SciPy**](https://colab.research.google.com/drive/1wDf3TKlNRAQSwNnSWMkBRU0akWSYj5FJ?usp=drive_link)
 
+* [Práctico 4, 2023-08-24, Integración numérica de ODEs](https://colab.research.google.com/drive/1HU6zDd6cAyUIBsK-MDTevFCC2MZnQgkG?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
@@ -27,6 +29,8 @@
 * [Clase 2, Familiarizandonse con **Numpy**, 2023-08-17](https://drive.google.com/file/d/1W9JbgvFru2LdE485-nGU4H11lPcjsD9E/view?usp=drive_link)
 
 * [Clase 3, Algebra lineal con **SciPy**, 2023-08-22](https://drive.google.com/file/d/16rPPPvqdl2Zt4BRgTm0miYkuV-xbfwBD/view?usp=drive_link)
+
+* [Clase 4, Integración numérica de ODEs, 2023-08-24](TODO)
 
 ## Links útiles
 
