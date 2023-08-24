@@ -4,7 +4,7 @@
 
 * [Teórico: Dr. Francisco A. Tamarit](mailto:francisco.tamarit@unc.edu.ar)
 
-* [Prácticos: Dr. Juan I. Perotti](mailto:juan.perotti@unc.edu.ar)
+* [Prácticos: Dr. Juan I. Perotti](mailto:juan.perotti@unc.edu.ar) y [Dr. Benamín Marcolongo](mailto:benjaminmarcolongo@unc.edu.ar)
 
 ## Salas virtuales
 
