@@ -11,6 +11,7 @@
 * [Teóricos, Martes y Jueves de 17 a 19 hs](https://meet.google.com/mzi-bvbq-fch)
 
 * [Prácticos, Martes y Jueves de 19 a 20 hs](https://meet.google.com/mxn-kaid-oxe)
+* [Prácticos, Martes y Jueves de 19 a 20 hs (sala Benjamín)](https://meet.google.com/kcg-grrz-qin)
 
 ## Guías de Prácticos
 
