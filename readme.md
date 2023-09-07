@@ -33,6 +33,9 @@
 
 * [Clase 4, Integración numérica de ODEs, 2023-08-24](https://drive.google.com/file/d/1Sj5RhlrXO46znMTwULFRa9kr23cVLoRM/view?usp=drive_link)
 
+* [Clase 6, Scope de variables en python, 2023-08-31](https://drive.google.com/file/d/1vx8Po6L1nsjGgbPAe6yz6ubPil8HyDLK/view?usp=sharing)
+
+* [Clase 7, Integración numérica de ODEs, 2023-09-05](https://drive.google.com/file/d/1spJoBDjx1t50FPkIJs3eiYPXKQ-gjT2I/view?usp=sharing)
 ## Links útiles
 
 * [Página oficial de la materia](https://www.famaf.unc.edu.ar/~ftamarit/redes2023/)
