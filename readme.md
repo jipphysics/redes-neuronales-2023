@@ -23,6 +23,9 @@
 
 * [Práctico 4, 2023-08-24, Integración numérica de ODEs](https://colab.research.google.com/drive/1HU6zDd6cAyUIBsK-MDTevFCC2MZnQgkG?usp=drive_link)
 
+* [Práctico 5, 2023-09-05, El modelo **integrate and fire**](https://colab.research.google.com/drive/17atccOmbVA5gGkfh6m9C3N5HQHUCiItZ?usp=drive_link)
+
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
