@@ -39,7 +39,6 @@
 * [Clase 6, Scope de variables en python, 2023-08-31](https://drive.google.com/file/d/1vx8Po6L1nsjGgbPAe6yz6ubPil8HyDLK/view?usp=sharing)
 
 * [Clase 7, Integración numérica de ODEs, 2023-09-05](https://drive.google.com/file/d/1spJoBDjx1t50FPkIJs3eiYPXKQ-gjT2I/view?usp=sharing)
-## Links útiles
 
 * [Clase 8, Integración numérica de ODEs, 2023-09-07](https://drive.google.com/file/d/1r3u35Mrx1k90hx5ZVC_h9_G_V4QByhRn/view?usp=sharing)
 
