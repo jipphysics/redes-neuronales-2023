@@ -25,7 +25,6 @@
 
 * [Práctico 5, 2023-09-05, El modelo **integrate and fire**](https://colab.research.google.com/drive/17atccOmbVA5gGkfh6m9C3N5HQHUCiItZ?usp=drive_link)
 
-
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
@@ -41,6 +40,12 @@
 * [Clase 7, Integración numérica de **ODE**s, 2023-09-05](https://drive.google.com/file/d/1spJoBDjx1t50FPkIJs3eiYPXKQ-gjT2I/view?usp=sharing)
 
 * [Clase 8, Integración numérica de **ODE**s, 2023-09-07](https://drive.google.com/file/d/1r3u35Mrx1k90hx5ZVC_h9_G_V4QByhRn/view?usp=sharing)
+
+## Trabajos prácticos
+
+* [TP1, 2023-09-14](TODO)
+
+* [Template de LaTeX en Overleaf](https://www.overleaf.com/read/pxntsyhfrkwp)
 
 ## Links útiles
 
