@@ -41,6 +41,8 @@
 
 * [Clase 8, Integración numérica de **ODE**s, 2023-09-07](https://drive.google.com/file/d/1r3u35Mrx1k90hx5ZVC_h9_G_V4QByhRn/view?usp=sharing)
 
+* [Clase 9, Campos vectoriales y el modelo **integrate and fire**, 2023-09-12](TODO)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14](TODO)
