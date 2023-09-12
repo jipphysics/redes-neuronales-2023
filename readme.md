@@ -21,7 +21,7 @@
 
 * [Práctico 3, 2023-08-22, Algebra lineal con **SciPy**](https://colab.research.google.com/drive/1wDf3TKlNRAQSwNnSWMkBRU0akWSYj5FJ?usp=drive_link)
 
-* [Práctico 4, 2023-08-24, Integración numérica de ODEs](https://colab.research.google.com/drive/1HU6zDd6cAyUIBsK-MDTevFCC2MZnQgkG?usp=drive_link)
+* [Práctico 4, 2023-08-24, Integración numérica de **ODE**s](https://colab.research.google.com/drive/1HU6zDd6cAyUIBsK-MDTevFCC2MZnQgkG?usp=drive_link)
 
 * [Práctico 5, 2023-09-05, El modelo **integrate and fire**](https://colab.research.google.com/drive/17atccOmbVA5gGkfh6m9C3N5HQHUCiItZ?usp=drive_link)
 
