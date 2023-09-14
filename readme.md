@@ -35,7 +35,7 @@
 
 * [Clase 4, Integración numérica de **ODE**s, 2023-08-24](https://drive.google.com/file/d/1Sj5RhlrXO46znMTwULFRa9kr23cVLoRM/view?usp=drive_link)
 
-* Clase 5, Repaso, 2023-08-19 (hubo problemas con la grabación de la clase)
+* Clase 5, Repaso, 2023-08-29 (hubo problemas con la grabación de la clase)
 
 * [Clase 6, Scope de variables en **Python**, 2023-08-31](https://drive.google.com/file/d/1vx8Po6L1nsjGgbPAe6yz6ubPil8HyDLK/view?usp=sharing)
 
