@@ -46,11 +46,15 @@
 
 * [Clase 9, Campos vectoriales y el modelo **integrate and fire**, 2023-09-12](https://drive.google.com/file/d/1I_GK_BtLtgXGn23KXskZmQtangvsXn7L/view?usp=drive_link)
 
+* [Clase 10, Presentación del TP1, 2023-09-14](TODO)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
 
 * [Template de LaTeX en Overleaf](https://www.overleaf.com/read/pxntsyhfrkwp)
+
+* [Integrador ODE](https://github.com/jipphysics/redes-neuronales-2023/blob/main/ode.py)
 
 ## Links útiles
 
