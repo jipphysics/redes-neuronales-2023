@@ -46,7 +46,7 @@
 
 * [Clase 9, Campos vectoriales y el modelo **integrate and fire**, 2023-09-12](https://drive.google.com/file/d/1I_GK_BtLtgXGn23KXskZmQtangvsXn7L/view?usp=drive_link)
 
-* [Clase 10, Presentación del TP1, 2023-09-14](TODO)
+* [Clase 10, Presentación del TP1, 2023-09-14](https://drive.google.com/file/d/1D5u76ui_7u233wwA-jTgGIab9MTprL8c/view?usp=drive_link)
 
 ## Trabajos prácticos
 
