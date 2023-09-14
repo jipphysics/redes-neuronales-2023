@@ -47,7 +47,7 @@
 
 ## Trabajos prácticos
 
-* [TP1, 2023-09-14 (a entregar en 3 semanas)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdfTODO)
+* [TP1, 2023-09-14 (a entregar en 3 semanas)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
 
 * [Template de LaTeX en Overleaf](https://www.overleaf.com/read/pxntsyhfrkwp)
 
