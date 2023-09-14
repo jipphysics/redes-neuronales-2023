@@ -47,7 +47,7 @@
 
 ## Trabajos prácticos
 
-* [TP1, 2023-09-14](TODO)
+* [TP1, 2023-09-14 (a entregar en 3 semanas)](TODO)
 
 * [Template de LaTeX en Overleaf](https://www.overleaf.com/read/pxntsyhfrkwp)
 
