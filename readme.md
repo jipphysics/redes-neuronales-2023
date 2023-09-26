@@ -48,6 +48,10 @@
 
 * [Clase 10, Presentación del TP1, 2023-09-14](https://drive.google.com/file/d/1D5u76ui_7u233wwA-jTgGIab9MTprL8c/view?usp=drive_link)
 
+* [Clase 11, Consulta del TP1, 2023-09-19](TODO)
+
+* Sin clase por ser el día del estudiante y la primavera, 2023-09-21
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
