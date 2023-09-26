@@ -48,7 +48,7 @@
 
 * [Clase 10, Presentación del TP1, 2023-09-14](https://drive.google.com/file/d/1D5u76ui_7u233wwA-jTgGIab9MTprL8c/view?usp=drive_link)
 
-* [Clase 11, Consulta del TP1, 2023-09-19](TODO)
+* [Clase 11, Consulta del TP1, 2023-09-19](https://drive.google.com/file/d/13zM8qMz0Y8X3TSC-JNfpBV1NR0hTteA_/view?usp=sharing)
 
 * Sin clase por ser el día del estudiante y la primavera, 2023-09-21
 
