@@ -52,6 +52,8 @@
 
 * Sin clase por ser el día del estudiante y la primavera, 2023-09-21
 
+* [Clase 12, Consulta del TP1, 2023-09-26](https://drive.google.com/file/d/1wQBKMJEpCH2ZMNW32-u2G8b4DCVlbDvg/view?usp=drive_link)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
