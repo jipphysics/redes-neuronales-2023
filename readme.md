@@ -69,3 +69,7 @@
 * [Página oficial de la materia](https://www.famaf.unc.edu.ar/~ftamarit/redes2023/)
 
 * [Google Drive](https://drive.google.com/drive/folders/1n97OOz2s0CceJ2_PAs0VTKDUw80xn7La?usp=sharing)
+
+## Curiosidades
+
+* [Ecuaciones de Lorenz, app para simular online (by Malin Christersson, 2015-02-21)](http://www.malinc.se/m/Lorenz.php)
