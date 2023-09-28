@@ -26,6 +26,8 @@
 
 * [Práctico 5, 2023-09-05, El modelo **integrate and fire**](https://colab.research.google.com/drive/17atccOmbVA5gGkfh6m9C3N5HQHUCiItZ?usp=drive_link)
 
+* [Práctico 6, 2023-09-28, El sistema de ecuaciones de Lorenz](https://colab.research.google.com/drive/1YJGRStaSeM-Fy3aQEu8TJe2Cr15B2Zm_?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
