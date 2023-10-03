@@ -28,6 +28,8 @@
 
 * [Práctico 6, 2023-09-28, El sistema de ecuaciones de Lorenz](https://colab.research.google.com/drive/1YJGRStaSeM-Fy3aQEu8TJe2Cr15B2Zm_?usp=drive_link)
 
+* [Práctico 7, 2023-10-03, El mapa logístico](https://colab.research.google.com/drive/1FYhG0zPQZ_ivhN8bP9tbWzkhPB2HYoux?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
