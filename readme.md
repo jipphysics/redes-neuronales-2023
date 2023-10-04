@@ -60,6 +60,8 @@
 
 * [Clase 13, Presentación de la Guía 6, el sistema de Lorenz, 2023-09-28](https://drive.google.com/file/d/1VjMTSNKkUu_azxrmnBvx4xOhoMedlzGR/view?usp=drive_link)
 
+* [Clase 14, Consulta del TP1 y presentación de la Guía 7, el mapa logístico, 2023-10-03](https://drive.google.com/file/d/1BbNI-cj9JN4eDK_r9Pm_e3OlqoIyDNxD/view?usp=drive_link)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
