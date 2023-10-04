@@ -66,6 +66,8 @@
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
 
+* [TP2, 2023-10-04 (a entregar en 3 semanas, i.e. el 2023-11-02)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp2-2023.pdf)
+
 * [Template de LaTeX en Overleaf](https://www.overleaf.com/read/pxntsyhfrkwp)
 
 * [Integrador ODE](https://github.com/jipphysics/redes-neuronales-2023/blob/main/ode.py)
