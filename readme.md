@@ -62,6 +62,8 @@
 
 * [Clase 14, Consulta del TP1 y presentación de la Guía 7, el mapa logístico, 2023-10-03](https://drive.google.com/file/d/1BbNI-cj9JN4eDK_r9Pm_e3OlqoIyDNxD/view?usp=drive_link)
 
+* [Clase 15, Consulta de las Guías 6 y 7, 2023-10-05](https://drive.google.com/file/d/1YaK10IHm6JnfE8C6L9JdTRX_usOkHYBo/view?usp=drive_link)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
