@@ -30,6 +30,8 @@
 
 * [Práctico 7, 2023-10-03, El mapa logístico](https://colab.research.google.com/drive/1FYhG0zPQZ_ivhN8bP9tbWzkhPB2HYoux?usp=drive_link)
 
+* [Práctico 8, 2023-10-10, El modelo de Hodgkin y Huxley](https://colab.research.google.com/drive/1wzXd6o-Z1vlT_LdHnhEExGf5NIxCkXRm?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
