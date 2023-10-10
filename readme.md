@@ -66,7 +66,7 @@
 
 * [Clase 15, Presentación del TP2 y consulta de las Guías 6 y 7, 2023-10-05](https://drive.google.com/file/d/1YaK10IHm6JnfE8C6L9JdTRX_usOkHYBo/view?usp=drive_link)
 
-* [Clase 16, Presentación de la Guía 8, 2023-10-10](TODO)
+* [Clase 16, Presentación de la Guía 8, 2023-10-10](https://drive.google.com/file/d/1HXd3PFajieBRWiovktP3yawSnxsuRrzE/view?usp=drive_link)
 
 ## Trabajos prácticos
 
