@@ -32,7 +32,7 @@
 
 * [Práctico 8, 2023-10-10, El modelo de Hodgkin y Huxley](https://colab.research.google.com/drive/1wzXd6o-Z1vlT_LdHnhEExGf5NIxCkXRm?usp=drive_link)
 
-* [Práctico 8, 2023-10-12, El modelo de Izhikevich](https://colab.research.google.com/drive/1aEqZLJMZ1cPU7Ll9SLhIE0mt2g9MZWNL?usp=drive_link)
+* [Práctico 9, 2023-10-12, El modelo de Izhikevich](https://colab.research.google.com/drive/1aEqZLJMZ1cPU7Ll9SLhIE0mt2g9MZWNL?usp=drive_link)
 
 ## Videos a las clases prácticas
 
