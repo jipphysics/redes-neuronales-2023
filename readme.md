@@ -32,6 +32,8 @@
 
 * [Práctico 8, 2023-10-10, El modelo de Hodgkin y Huxley](https://colab.research.google.com/drive/1wzXd6o-Z1vlT_LdHnhEExGf5NIxCkXRm?usp=drive_link)
 
+* [Práctico 8, 2023-10-12, El modelo de Izhikevich](https://colab.research.google.com/drive/1aEqZLJMZ1cPU7Ll9SLhIE0mt2g9MZWNL?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
@@ -67,6 +69,8 @@
 * [Clase 15, Presentación del TP2 y consulta de las Guías 6 y 7, 2023-10-05](https://drive.google.com/file/d/1YaK10IHm6JnfE8C6L9JdTRX_usOkHYBo/view?usp=drive_link)
 
 * [Clase 16, Presentación de la Guía 8, 2023-10-10](https://drive.google.com/file/d/1HXd3PFajieBRWiovktP3yawSnxsuRrzE/view?usp=drive_link)
+
+* [Clase 17, Consultas, 2023-10-12](https://drive.google.com/file/d/1-9kDX-92_ID6mrp2zA4dku1-5Vb6gTV9/view?usp=sharing)
 
 ## Trabajos prácticos
 
