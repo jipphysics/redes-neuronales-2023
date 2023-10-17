@@ -62,17 +62,17 @@
 
 * [Clase 12, Consulta del TP1, 2023-09-26](https://drive.google.com/file/d/1wQBKMJEpCH2ZMNW32-u2G8b4DCVlbDvg/view?usp=drive_link)
 
-* [Clase 13, Presentación de la Guía 6, el sistema de Lorenz, 2023-09-28](https://drive.google.com/file/d/1VjMTSNKkUu_azxrmnBvx4xOhoMedlzGR/view?usp=drive_link)
+* [Clase 13, Presentación de la Guía 6, el sistema de **ecuaciones de Lorenz**, 2023-09-28](https://drive.google.com/file/d/1VjMTSNKkUu_azxrmnBvx4xOhoMedlzGR/view?usp=drive_link)
 
-* [Clase 14, Consulta del TP1 y presentación de la Guía 7, el mapa logístico, 2023-10-03](https://drive.google.com/file/d/1BbNI-cj9JN4eDK_r9Pm_e3OlqoIyDNxD/view?usp=drive_link)
+* [Clase 14, Consulta del TP1 y presentación de la Guía 7, el **mapa logístico**, 2023-10-03](https://drive.google.com/file/d/1BbNI-cj9JN4eDK_r9Pm_e3OlqoIyDNxD/view?usp=drive_link)
 
 * [Clase 15, Presentación del TP2 y consulta de las Guías 6 y 7, 2023-10-05](https://drive.google.com/file/d/1YaK10IHm6JnfE8C6L9JdTRX_usOkHYBo/view?usp=drive_link)
 
-* [Clase 16, Presentación de la Guía 8, 2023-10-10](https://drive.google.com/file/d/1HXd3PFajieBRWiovktP3yawSnxsuRrzE/view?usp=drive_link)
+* [Clase 16, Presentación de la Guía 8, el **modelo de Hodgkin y Huxley**, 2023-10-10](https://drive.google.com/file/d/1HXd3PFajieBRWiovktP3yawSnxsuRrzE/view?usp=drive_link)
 
 * [Clase 17, Consultas, 2023-10-12](https://drive.google.com/file/d/1-9kDX-92_ID6mrp2zA4dku1-5Vb6gTV9/view?usp=sharing)
 
-* [Clase 18, Presentación de la Guía 9, 2023-10-17](TODO)
+* [Clase 18, Presentación de la Guía 9, el **modelo de Izhikevich**, 2023-10-17](TODO)
 
 ## Trabajos prácticos
 
