@@ -48,11 +48,11 @@
 
 * [Clase 6, Scope de variables en **Python**, 2023-08-31](https://drive.google.com/file/d/1vx8Po6L1nsjGgbPAe6yz6ubPil8HyDLK/view?usp=sharing)
 
-* [Clase 7, Integración numérica de **ODE**s, 2023-09-05](https://drive.google.com/file/d/1spJoBDjx1t50FPkIJs3eiYPXKQ-gjT2I/view?usp=sharing)
+* [Clase 7, Repaso de integración numérica de **ODE**s, 2023-09-05](https://drive.google.com/file/d/1spJoBDjx1t50FPkIJs3eiYPXKQ-gjT2I/view?usp=sharing)
 
-* [Clase 8, Integración numérica de **ODE**s, 2023-09-07](https://drive.google.com/file/d/1r3u35Mrx1k90hx5ZVC_h9_G_V4QByhRn/view?usp=sharing)
+* [Clase 8, Repaso de integración numérica de **ODE**s, 2023-09-07](https://drive.google.com/file/d/1r3u35Mrx1k90hx5ZVC_h9_G_V4QByhRn/view?usp=sharing)
 
-* [Clase 9, Campos vectoriales y el modelo **integrate and fire**, 2023-09-12](https://drive.google.com/file/d/1I_GK_BtLtgXGn23KXskZmQtangvsXn7L/view?usp=drive_link)
+* [Clase 9, Campos vectoriales y el **modelo integrate and fire**, 2023-09-12](https://drive.google.com/file/d/1I_GK_BtLtgXGn23KXskZmQtangvsXn7L/view?usp=drive_link)
 
 * [Clase 10, Presentación del TP1, 2023-09-14](https://drive.google.com/file/d/1D5u76ui_7u233wwA-jTgGIab9MTprL8c/view?usp=drive_link)
 
@@ -62,17 +62,17 @@
 
 * [Clase 12, Consulta del TP1, 2023-09-26](https://drive.google.com/file/d/1wQBKMJEpCH2ZMNW32-u2G8b4DCVlbDvg/view?usp=drive_link)
 
-* [Clase 13, Presentación de la Guía 6, el sistema de **ecuaciones de Lorenz**, 2023-09-28](https://drive.google.com/file/d/1VjMTSNKkUu_azxrmnBvx4xOhoMedlzGR/view?usp=drive_link)
+* [Clase 13, Presentación de la **Guía 6**, el sistema de **ecuaciones de Lorenz**, 2023-09-28](https://drive.google.com/file/d/1VjMTSNKkUu_azxrmnBvx4xOhoMedlzGR/view?usp=drive_link)
 
 * [Clase 14, Consulta del TP1 y presentación de la Guía 7, el **mapa logístico**, 2023-10-03](https://drive.google.com/file/d/1BbNI-cj9JN4eDK_r9Pm_e3OlqoIyDNxD/view?usp=drive_link)
 
 * [Clase 15, Presentación del TP2 y consulta de las Guías 6 y 7, 2023-10-05](https://drive.google.com/file/d/1YaK10IHm6JnfE8C6L9JdTRX_usOkHYBo/view?usp=drive_link)
 
-* [Clase 16, Presentación de la Guía 8, el **modelo de Hodgkin y Huxley**, 2023-10-10](https://drive.google.com/file/d/1HXd3PFajieBRWiovktP3yawSnxsuRrzE/view?usp=drive_link)
+* [Clase 16, Presentación de la **Guía 8**, el **modelo de Hodgkin y Huxley**, 2023-10-10](https://drive.google.com/file/d/1HXd3PFajieBRWiovktP3yawSnxsuRrzE/view?usp=drive_link)
 
-* [Clase 17, Consultas, 2023-10-12](https://drive.google.com/file/d/1-9kDX-92_ID6mrp2zA4dku1-5Vb6gTV9/view?usp=sharing)
+* [Clase 17, Consultas sobre Guías 6, 7 y 6, y TP2, 2023-10-12](https://drive.google.com/file/d/1-9kDX-92_ID6mrp2zA4dku1-5Vb6gTV9/view?usp=sharing)
 
-* [Clase 18, Presentación de la Guía 9, el **modelo de Izhikevich**, 2023-10-17](TODO)
+* [Clase 18, Presentación de la **Guía 9**, el **modelo de Izhikevich**, 2023-10-17](TODO)
 
 ## Trabajos prácticos
 
