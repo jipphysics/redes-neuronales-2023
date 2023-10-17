@@ -72,6 +72,8 @@
 
 * [Clase 17, Consultas, 2023-10-12](https://drive.google.com/file/d/1-9kDX-92_ID6mrp2zA4dku1-5Vb6gTV9/view?usp=sharing)
 
+* [Clase 18, Presentación de la Guía 9, 2023-10-17](TODO)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
