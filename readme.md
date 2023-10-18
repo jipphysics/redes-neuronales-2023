@@ -72,7 +72,7 @@
 
 * [Clase 17, Consultas sobre Guías 6, 7 y 6, y TP2, 2023-10-12](https://drive.google.com/file/d/1-9kDX-92_ID6mrp2zA4dku1-5Vb6gTV9/view?usp=sharing)
 
-* [Clase 18, Presentación de la **Guía 9**, el **modelo de Izhikevich**, 2023-10-17](TODO)
+* [Clase 18, Presentación de la **Guía 9**, el **modelo de Izhikevich**, 2023-10-17](https://drive.google.com/file/d/11v49g6XJ6cn5G5eVjpS9_aci6eON0_bv/view?usp=share_link)
 
 ## Trabajos prácticos
 
