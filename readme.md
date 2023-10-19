@@ -74,6 +74,8 @@
 
 * [Clase 18, Presentación de la **Guía 9**, el **modelo de Izhikevich**, 2023-10-17](https://drive.google.com/file/d/11v49g6XJ6cn5G5eVjpS9_aci6eON0_bv/view?usp=share_link)
 
+* [Clase 19, Consulta, 2023-10-19](TODO)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
