@@ -76,6 +76,8 @@
 
 * [Clase 19, Charla **Criticalidad en el cerebro** y **Consulta**, 2023-10-19](https://drive.google.com/file/d/19FuZZO2i-X39QzfarMbzbVU1Q1SeHm8d/view?usp=sharing) [(filminas)](https://drive.google.com/file/d/1fNzU5MgNNY1Jlkh56JVdxsogHU7en9lM/view?usp=sharing)
 
+* [Clase 20, Consulta sobre Guía 9, 2023-10-24](https://drive.google.com/file/d/1zkZepMwvOvCekL8u24bAm7v87o9lNx9h/view?usp=drive_link)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
