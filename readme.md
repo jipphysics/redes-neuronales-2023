@@ -76,7 +76,7 @@
 
 * [Clase 18, Presentación de la **Guía 9**, el **modelo de Izhikevich**, 2023-10-17](https://drive.google.com/file/d/11v49g6XJ6cn5G5eVjpS9_aci6eON0_bv/view?usp=share_link)
 
-* [Clase 19, Charla **Criticalidad en el cerebro** y **Consulta**, 2023-10-19](https://drive.google.com/file/d/19FuZZO2i-X39QzfarMbzbVU1Q1SeHm8d/view?usp=sharing) [(filminas)](https://drive.google.com/file/d/1fNzU5MgNNY1Jlkh56JVdxsogHU7en9lM/view?usp=sharing)
+* [Clase 19, Charla **Criticalidad en el cerebro** y **Consulta**, 2023-10-19 (teórico)](https://drive.google.com/file/d/19FuZZO2i-X39QzfarMbzbVU1Q1SeHm8d/view?usp=sharing) [(filminas)](TODO) [(práctico)](https://drive.google.com/file/d/1fNzU5MgNNY1Jlkh56JVdxsogHU7en9lM/view?usp=sharing)
 
 * [Clase 20, Consulta sobre TP2 y Guía 9, 2023-10-24](https://drive.google.com/file/d/1zkZepMwvOvCekL8u24bAm7v87o9lNx9h/view?usp=drive_link)
 
