@@ -26,15 +26,15 @@
 
 * [Práctico 5, 2023-09-05, El modelo **integrate and fire**](https://colab.research.google.com/drive/17atccOmbVA5gGkfh6m9C3N5HQHUCiItZ?usp=drive_link)
 
-* [Práctico 6, 2023-09-28, El sistema de ecuaciones de Lorenz](https://colab.research.google.com/drive/1YJGRStaSeM-Fy3aQEu8TJe2Cr15B2Zm_?usp=drive_link)
+* [Práctico 6, 2023-09-28, El sistema de ecuaciones de **Lorenz**](https://colab.research.google.com/drive/1YJGRStaSeM-Fy3aQEu8TJe2Cr15B2Zm_?usp=drive_link)
 
-* [Práctico 7, 2023-10-03, El mapa logístico](https://colab.research.google.com/drive/1FYhG0zPQZ_ivhN8bP9tbWzkhPB2HYoux?usp=drive_link)
+* [Práctico 7, 2023-10-03, El **mapa logístico**](https://colab.research.google.com/drive/1FYhG0zPQZ_ivhN8bP9tbWzkhPB2HYoux?usp=drive_link)
 
-* [Práctico 8, 2023-10-10, El modelo de Hodgkin y Huxley](https://colab.research.google.com/drive/1wzXd6o-Z1vlT_LdHnhEExGf5NIxCkXRm?usp=drive_link)
+* [Práctico 8, 2023-10-10, El modelo de **Hodgkin y Huxley**](https://colab.research.google.com/drive/1wzXd6o-Z1vlT_LdHnhEExGf5NIxCkXRm?usp=drive_link)
 
-* [Práctico 9, 2023-10-12, El modelo de Izhikevich](https://colab.research.google.com/drive/1aEqZLJMZ1cPU7Ll9SLhIE0mt2g9MZWNL?usp=drive_link)
+* [Práctico 9, 2023-10-12, El modelo de **Izhikevich**](https://colab.research.google.com/drive/1aEqZLJMZ1cPU7Ll9SLhIE0mt2g9MZWNL?usp=drive_link)
 
-* [Práctico 10, 2023-10-26, Perceptron](https://colab.research.google.com/drive/1OD22scxxLZJqvb_xAVDDYCqet_LDtqix?usp=drive_link)
+* [Práctico 10, 2023-10-26, **Perceptron**](https://colab.research.google.com/drive/1OD22scxxLZJqvb_xAVDDYCqet_LDtqix?usp=drive_link)
 
 ## Videos a las clases prácticas
 
