@@ -80,7 +80,7 @@
 
 * [Clase 20, Consulta sobre TP2 y Guía 9, 2023-10-24](https://drive.google.com/file/d/1zkZepMwvOvCekL8u24bAm7v87o9lNx9h/view?usp=drive_link)
 
-* [Clase 21, Presentación de la **Guía 10**, 2023-10-26](TODO)
+* [Clase 21, Presentación de la **Guía 10**, 2023-10-26](https://drive.google.com/file/d/1toZ8OoN03BNRbubL4XRvMOOV3CyjuFxk/view?usp=drive_link)
 
 ## Trabajos prácticos
 
