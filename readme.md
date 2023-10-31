@@ -36,6 +36,8 @@
 
 * [Práctico 10, 2023-10-26, **Perceptron**](https://colab.research.google.com/drive/1OD22scxxLZJqvb_xAVDDYCqet_LDtqix?usp=drive_link)
 
+* [Práctico 11, 2023-10-31, **Perceptron multicapa**](https://colab.research.google.com/drive/1MKwuCx5Ka8yda4FTjbRRd4uLsJq6MglV?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
@@ -81,6 +83,8 @@
 * [Clase 20, Consulta sobre TP2 y Guía 9, 2023-10-24](https://drive.google.com/file/d/1zkZepMwvOvCekL8u24bAm7v87o9lNx9h/view?usp=drive_link)
 
 * [Clase 21, Presentación de la **Guía 10**, 2023-10-26](https://drive.google.com/file/d/1toZ8OoN03BNRbubL4XRvMOOV3CyjuFxk/view?usp=drive_link)
+
+* [Clase 22, Presentación de la **Guía 11** y consultas (clase teorico y práctico), 2023-10-26](https://drive.google.com/file/d/1toZ8OoN03BNRbubL4XRvMOOV3CyjuFxk/view?usp=drive_link)
 
 ## Trabajos prácticos
 
