@@ -84,7 +84,7 @@
 
 * [Clase 21, Presentación de la **Guía 10**, 2023-10-26](https://drive.google.com/file/d/1toZ8OoN03BNRbubL4XRvMOOV3CyjuFxk/view?usp=drive_link)
 
-* [Clase 22, Presentación de la **Guía 11** y consultas (clase teorico y práctico), 2023-10-31](TODO)
+* [Clase 22, Presentación de la **Guía 11** y consultas (teorico), 2023-10-31](https://drive.google.com/file/d/1Nr8RWB-UEWXgQslhbcyxR1TWeBg0cZ8B/view?usp=drive_link) [practico](https://drive.google.com/file/d/168MaH8BIzl_mMqWq6YYDc9Wz_J70MPca/view?usp=drive_link)
 
 ## Trabajos prácticos
 
