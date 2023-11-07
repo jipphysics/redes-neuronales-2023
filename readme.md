@@ -90,7 +90,7 @@
 
 * [Clase 22, Presentación de la **Guía 11** y consultas (teorico), 2023-10-31](https://drive.google.com/file/d/1Nr8RWB-UEWXgQslhbcyxR1TWeBg0cZ8B/view?usp=drive_link) [practico](https://drive.google.com/file/d/168MaH8BIzl_mMqWq6YYDc9Wz_J70MPca/view?usp=drive_link)
 
-* [Clase 23, Presentación de la **Guía 12** y el TP3, 2023-11-07](TODO)
+* [Clase 23, Presentación de la **Guía 12** y el TP3, 2023-11-07](https://drive.google.com/file/d/1ZI3JcJL5F41sLTcY0_orgGoHuZw1BO9s/view?usp=drive_link)
 
 ## Trabajos prácticos
 
