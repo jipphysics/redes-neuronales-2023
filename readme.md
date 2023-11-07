@@ -38,6 +38,10 @@
 
 * [Práctico 11, 2023-10-31, **Perceptron multicapa**](https://colab.research.google.com/drive/1MKwuCx5Ka8yda4FTjbRRd4uLsJq6MglV?usp=drive_link)
 
+* [Tutorial 1, 2023-11-07: **Pytorch - tensores**](https://colab.research.google.com/drive/1rZ2rG0lYGRyGJEl_vd3YE-LnT2lphXah?usp=drive_link)
+
+* [Práctico 12, 2023-11-07, **cuadrados mínimos con PyTorch**](https://colab.research.google.com/drive/1nZKrn9STHsoilRPor_FSRD4_cpbeXwjZ?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
@@ -86,11 +90,15 @@
 
 * [Clase 22, Presentación de la **Guía 11** y consultas (teorico), 2023-10-31](https://drive.google.com/file/d/1Nr8RWB-UEWXgQslhbcyxR1TWeBg0cZ8B/view?usp=drive_link) [practico](https://drive.google.com/file/d/168MaH8BIzl_mMqWq6YYDc9Wz_J70MPca/view?usp=drive_link)
 
+* [Clase 23, Presentación de la **Guía 12** y el TP3, 2023-11-07](TODO)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
 
 * [TP2, 2023-10-04 (a entregar en 3 semanas, i.e. el 2023-11-02)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp2-2023.pdf)
+
+* [TP3, 2023-11-07 (a entregar en 3 semanas, i.e. el 2023-11-21)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp3-2023.pdf)
 
 * [Template de LaTeX en Overleaf](https://www.overleaf.com/read/pxntsyhfrkwp)
 
