@@ -42,6 +42,8 @@
 
 * [Práctico 12, 2023-11-07, **cuadrados mínimos con PyTorch**](https://colab.research.google.com/drive/1nZKrn9STHsoilRPor_FSRD4_cpbeXwjZ?usp=drive_link)
 
+* [Práctico 13, 2023-11-09, **Aprendiendo Fashion-MNIST con PyTorch**](TODO)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
@@ -91,6 +93,8 @@
 * [Clase 22, Presentación de la **Guía 11** y consultas (teorico), 2023-10-31](https://drive.google.com/file/d/1Nr8RWB-UEWXgQslhbcyxR1TWeBg0cZ8B/view?usp=drive_link) [practico](https://drive.google.com/file/d/168MaH8BIzl_mMqWq6YYDc9Wz_J70MPca/view?usp=drive_link)
 
 * [Clase 23, Presentación de la **Guía 12** y el TP3, 2023-11-07](https://drive.google.com/file/d/1ZI3JcJL5F41sLTcY0_orgGoHuZw1BO9s/view?usp=drive_link)
+
+* [Clase 24, Presentación de la **Guía 13**](TODO)
 
 ## Trabajos prácticos
 
