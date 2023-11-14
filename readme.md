@@ -42,7 +42,9 @@
 
 * [Práctico 12, 2023-11-07, **cuadrados mínimos con PyTorch**](https://colab.research.google.com/drive/1nZKrn9STHsoilRPor_FSRD4_cpbeXwjZ?usp=drive_link)
 
-* [Práctico 13, 2023-11-09, **Aprendiendo Fashion-MNIST con PyTorch**](https://colab.research.google.com/drive/17kSi9SPbTwekKQjYylF84balhx8Dj9uh?ouid=102248644573037607116&usp=drive_link) 
+* [Práctico 13, 2023-11-09, **Aprendiendo Fashion-MNIST con PyTorch**](https://colab.research.google.com/drive/1psoK-BrgQdQnsIQLBtoTMeYO7SxesLi_?usp=drive_link) 
+
+* [Práctico 14, 2023-11-14, **Autoencoder con Fashion-MNIST en PyTorch**](https://colab.research.google.com/drive/16qNP98avr9z3_FS9E9qAUM37nDYXp_oc?usp=sharing) 
 
 ## Videos a las clases prácticas
 
