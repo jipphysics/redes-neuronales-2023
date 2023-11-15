@@ -98,7 +98,7 @@
 
 * [Clase 24, Presentación de la **Guía 13**, 2023-11-09](https://drive.google.com/file/d/12arMHjJQXtQixVsp2z-JYNX5WC5wLoEX/view?usp=drive_link)
 
-* [Clase 25, Presentación de la **Guía 14**, 2023-11-11](TODO)
+* [Clase 25, Presentación de la **Guía 14**, 2023-11-11](https://drive.google.com/file/d/1i8bN-KLXKV6SIgGlUpZGMxFt1kwuA3Ug/view?usp=drive_link)
 
 ## Trabajos prácticos
 
