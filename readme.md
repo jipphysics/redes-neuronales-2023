@@ -100,6 +100,8 @@
 
 * [Clase 25, Presentación de la **Guía 14**, 2023-11-11](https://drive.google.com/file/d/1i8bN-KLXKV6SIgGlUpZGMxFt1kwuA3Ug/view?usp=drive_link)
 
+* [Clase 26, Consulta, 2023-11-16](https://drive.google.com/file/d/1bEd7d39p_UPyfrugjV7TfpacpUc9V0SM/view?usp=drive_link)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
