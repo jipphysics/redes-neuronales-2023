@@ -46,6 +46,8 @@
 
 * [Práctico 14, 2023-11-14, **Autoencoder con Fashion-MNIST en PyTorch**](https://colab.research.google.com/drive/16qNP98avr9z3_FS9E9qAUM37nDYXp_oc?usp=drive_link) 
 
+* [Práctico 15, 2023-11-21], **Autoencoder convolucional con Fashion-MNIST en PyTorch**](https://colab.research.google.com/drive/1nNpMztieydqLLiHj31LIOMcOJZbCOax6?usp=drive_link)
+
 ## Videos a las clases prácticas
 
 * [Clase 1, Introducción a **Google Colab** y **Python**, 2023-08-15](https://drive.google.com/file/d/1kl8s4BNuuhR2n6NqIJ3RNHmXHDtwoGGN/view?usp=drive_link)
