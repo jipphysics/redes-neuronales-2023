@@ -104,7 +104,7 @@
 
 * [Clase 26, Consulta, 2023-11-16](https://drive.google.com/file/d/1bEd7d39p_UPyfrugjV7TfpacpUc9V0SM/view?usp=drive_link)
 
-* [Clase 27, Presentación del **Trabajo Final**, 2023-11-21](TODO)
+* [Clase 27, Presentación del **Trabajo Final** z la **Guía 15**, 2023-11-21](TODO)
 
 ## Trabajos prácticos
 
