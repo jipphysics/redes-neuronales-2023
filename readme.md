@@ -104,6 +104,8 @@
 
 * [Clase 26, Consulta, 2023-11-16](https://drive.google.com/file/d/1bEd7d39p_UPyfrugjV7TfpacpUc9V0SM/view?usp=drive_link)
 
+* [Clase 27, Presentación del **Trabajo Final**, 2023-11-21](TODO)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
@@ -115,6 +117,10 @@
 * [Template de LaTeX en Overleaf](https://www.overleaf.com/read/pxntsyhfrkwp)
 
 * [Integrador ODE](https://github.com/jipphysics/redes-neuronales-2023/blob/main/ode.py)
+
+## Trabajo final integrador
+
+* [Autoencoder y clasificador convolucional sobre Fashion-MNIST](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tf-2023.pdf)
 
 ## Links útiles
 
