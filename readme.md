@@ -120,7 +120,7 @@
 
 ## Trabajo final integrador
 
-* [Autoencoder y clasificador convolucional sobre Fashion-MNIST](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tf-2023.pdf)
+* [Autoencoder y clasificador convolucional sobre Fashion-MNIST (entregar 48hs antes del examen)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tf-2023.pdf)
 
 ## Links útiles
 
