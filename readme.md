@@ -106,7 +106,9 @@
 
 * [Clase 27, Presentación del **Trabajo Final** z la **Guía 15**, 2023-11-21](https://drive.google.com/file/d/1A3Hl-eBCEP2u9VWBgx3wK4-9g-Cc1dyq/view?usp=drive_link)
 
-* [Clase 28, Consulta, 2023-11-28](TODO)
+* [Clase 28, Consulta, 2023-11-23](https://drive.google.com/file/d/1A3Hl-eBCEP2u9VWBgx3wK4-9g-Cc1dyq/view?usp=drive_link)
+
+* [Clase 29, Consulta, 2023-11-28](TODO)
 
 ## Trabajos prácticos
 
