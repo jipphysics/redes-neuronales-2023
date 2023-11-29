@@ -108,7 +108,7 @@
 
 * [Clase 28, Consulta, 2023-11-23](https://drive.google.com/file/d/1A3Hl-eBCEP2u9VWBgx3wK4-9g-Cc1dyq/view?usp=drive_link)
 
-* [Clase 29, Consulta, 2023-11-28](TODO)
+* [Clase 29, Consulta, 2023-11-28](https://drive.google.com/file/d/1umUxN2_vqbc3slx6Kn2yBbgexdF1a06v/view?usp=drive_link)
 
 ## Trabajos prácticos
 
