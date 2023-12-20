@@ -112,7 +112,7 @@
 
 * [Clase 30, Consulta, 2023-11-30](https://drive.google.com/file/d/1KJt8-sVA9Jc-ui_HWveYun6a8TDcl6H8/view?usp=drive_link)
 
-* [Clase 31, Consulta, 2023-12-19](TODO)
+* [Clase 31, Consulta, 2023-12-19](https://drive.google.com/file/d/1V4Wv-L4OLgFn6wo3sntEhaTB9Xs4BYvz/view?usp=drive_link)
 
 ## Trabajos prácticos
 
