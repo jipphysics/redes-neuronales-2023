@@ -135,6 +135,17 @@
 
 * [Autoencoder y clasificador convolucional sobre Fashion-MNIST (entregar 48hs antes del examen)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tf-2023.pdf)
 
+## Fechas de exámenes finales
+
+A las féchas de exámenes: 
+
+* Jueves 7 de diciembre de 2023
+* Viernes 22 de diciembre de 2023
+* Viernes 9 de febrero de 2024
+* Viernes 1 de marzo de 2024
+
+las pueden encontrar en [https://www.famaf.unc.edu.ar/documents/4521/2023_12_-_DEFINITIVAS.pdf](https://www.famaf.unc.edu.ar/documents/4521/2023_12_-_DEFINITIVAS.pdf).
+
 ## Links útiles
 
 * [Página oficial de la materia](https://www.famaf.unc.edu.ar/~ftamarit/redes2023/)
