@@ -145,6 +145,7 @@ A las féchas de exámenes:
 * Viernes 1 de marzo de 2024
 
 las pueden encontrar en [https://www.famaf.unc.edu.ar/documents/4521/2023_12_-_DEFINITIVAS.pdf](https://www.famaf.unc.edu.ar/documents/4521/2023_12_-_DEFINITIVAS.pdf).
+Para más detalles, revisar la [página oficial](https://www.famaf.unc.edu.ar/~ftamarit/redes2023/) de la materia.
 
 ## Links útiles
 
