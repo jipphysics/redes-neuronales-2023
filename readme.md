@@ -88,13 +88,18 @@
 
 * [Clase 18, Presentación de la **Guía 9**, el **modelo de Izhikevich**, 2023-10-17](https://drive.google.com/file/d/11v49g6XJ6cn5G5eVjpS9_aci6eON0_bv/view?usp=share_link)
 
-* [Clase 19, Charla **Criticalidad en el cerebro** y **Consulta**, 2023-10-19 (teórico)](https://drive.google.com/file/d/19FuZZO2i-X39QzfarMbzbVU1Q1SeHm8d/view?usp=sharing) [(https://docs.google.com/presentation/d/1HrqO_ZRlRCdz8EGvo-76jgkcMuWqy05bjcYXtUOeZM8/edit?usp=sharing)] [(práctico)](https://drive.google.com/file/d/1fNzU5MgNNY1Jlkh56JVdxsogHU7en9lM/view?usp=sharing)
+* Clase 19, Charla **Criticalidad en el cerebro** y **Consulta**, 2023-10-19 
+    * [(teórico)](https://drive.google.com/file/d/19FuZZO2i-X39QzfarMbzbVU1Q1SeHm8d/view?usp=sharing) 
+    * [https://docs.google.com/presentation/d/1HrqO_ZRlRCdz8EGvo-76jgkcMuWqy05bjcYXtUOeZM8/edit?usp=sharing](https://docs.google.com/presentation/d/1HrqO_ZRlRCdz8EGvo-76jgkcMuWqy05bjcYXtUOeZM8/edit?usp=sharing)
+    * [(práctico)](https://drive.google.com/file/d/1fNzU5MgNNY1Jlkh56JVdxsogHU7en9lM/view?usp=sharing)
 
 * [Clase 20, Consulta sobre TP2 y Guía 9, 2023-10-24](https://drive.google.com/file/d/1zkZepMwvOvCekL8u24bAm7v87o9lNx9h/view?usp=drive_link)
 
 * [Clase 21, Presentación de la **Guía 10**, 2023-10-26](https://drive.google.com/file/d/1toZ8OoN03BNRbubL4XRvMOOV3CyjuFxk/view?usp=drive_link)
 
-* [Clase 22, Presentación de la **Guía 11** y consultas (teorico), 2023-10-31](https://drive.google.com/file/d/1Nr8RWB-UEWXgQslhbcyxR1TWeBg0cZ8B/view?usp=drive_link) [practico](https://drive.google.com/file/d/168MaH8BIzl_mMqWq6YYDc9Wz_J70MPca/view?usp=drive_link)
+* Clase 22, Presentación de la **Guía 11** y consultas, 2023-10-31: 
+  [(teórico)] (https://drive.google.com/file/d/1Nr8RWB-UEWXgQslhbcyxR1TWeBg0cZ8B/view?usp=drive_link) 
+  [(práctico)](https://drive.google.com/file/d/168MaH8BIzl_mMqWq6YYDc9Wz_J70MPca/view?usp=drive_link)
 
 * [Clase 23, Presentación de la **Guía 12** y el TP3, 2023-11-07](https://drive.google.com/file/d/1ZI3JcJL5F41sLTcY0_orgGoHuZw1BO9s/view?usp=drive_link)
 
