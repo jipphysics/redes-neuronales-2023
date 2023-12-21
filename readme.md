@@ -137,7 +137,7 @@
 
 ## Fechas de exámenes finales
 
-A las féchas de exámenes: 
+A las féchas de exámenes finales: 
 
 * Jueves 7 de diciembre de 2023
 * Viernes 22 de diciembre de 2023
