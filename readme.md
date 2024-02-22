@@ -119,6 +119,12 @@
 
 * [Clase 31, Consulta, 2023-12-19](https://drive.google.com/file/d/1V4Wv-L4OLgFn6wo3sntEhaTB9Xs4BYvz/view?usp=drive_link)
 
+## Clases de consulta
+
+* [Clase 31, Consulta, 2024-02-01](TODO)
+
+* [Clase 32, Consulta, 2024-02-20](https://drive.google.com/file/d/10COH6LQI0xTCPk9wHGwrVARQXckA1crx/view?usp=drive_link)
+
 ## Trabajos prácticos
 
 * [TP1, 2023-09-14 (a entregar en 3 semanas, i.e. el 2023-10-03)](https://github.com/jipphysics/redes-neuronales-2023/blob/main/tp1-2023.pdf)
