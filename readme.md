@@ -109,7 +109,7 @@
 
 * [Clase 26, Consulta, 2023-11-16](https://drive.google.com/file/d/1bEd7d39p_UPyfrugjV7TfpacpUc9V0SM/view?usp=drive_link)
 
-* [Clase 27, Presentación del **Trabajo Final** z la **Guía 15**, 2023-11-21](https://drive.google.com/file/d/1A3Hl-eBCEP2u9VWBgx3wK4-9g-Cc1dyq/view?usp=drive_link)
+* [Clase 27, Presentación del **Trabajo Final** y la **Guía 15**, 2023-11-21](https://drive.google.com/file/d/1A3Hl-eBCEP2u9VWBgx3wK4-9g-Cc1dyq/view?usp=drive_link)
 
 * [Clase 28, Consulta, 2023-11-23](https://drive.google.com/file/d/1RKHhFm8JPszNphd_ImdcV4WjgerGkmYy/view?usp=drive_link)
 
